@@ -2,6 +2,17 @@
 Changelog for package rosserial_embeddedlinux
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.1 (2014-06-30)
+------------------
+
+0.6.0 (2014-06-11)
+------------------
+
+0.5.6 (2014-06-11)
+------------------
+* Add Mike Purvis as maintainer to all but xbee.
+* Contributors: Mike Purvis
+
 0.5.5 (2014-01-14)
 ------------------
 
